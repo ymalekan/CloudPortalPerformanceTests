@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\master\panda\internal\on_demand\performance\Scripts\FLP_Cloud
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\master\panda\internal\on_demand\performance\scripts\flp_cloud\\logfile.log
+c:\master\panda\internal\on_demand\performance\scripts\flp_cloud\\combined_FLP_Cloud.c
+c:\master\panda\internal\on_demand\performance\scripts\flp_cloud\\pre_cci.c

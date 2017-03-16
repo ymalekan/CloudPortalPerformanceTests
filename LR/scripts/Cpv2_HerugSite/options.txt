@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\master\panda\internal\on_demand\performance\Scripts\CPv2_FreeStyle
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\master\panda\internal\on_demand\performance\scripts\cpv2_freestyle\\logfile.log
+c:\master\panda\internal\on_demand\performance\scripts\cpv2_freestyle\\combined_CPv2_FreeStyle.c
+c:\master\panda\internal\on_demand\performance\scripts\cpv2_freestyle\\pre_cci.c

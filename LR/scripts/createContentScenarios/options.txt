@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\master\panda\internal\on_demand\performance\Scripts\createContentScenarios
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\master\panda\internal\on_demand\performance\scripts\createcontentscenarios\\logfile.log
+c:\master\panda\internal\on_demand\performance\scripts\createcontentscenarios\\combined_createContentScenarios.c
+c:\master\panda\internal\on_demand\performance\scripts\createcontentscenarios\\pre_cci.c
